@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Singh</h1>
-<h3 align="center">A passionate frontend and backend developer from India, also interested in Cyber security.</h3>
+<h3 align="center">A passionate developer with a focus on frontend and backend development, as well as a keen interest in cybersecurity. My journey in tech has led me to explore the exciting fields of AI and machine learning, with most of my projects centered around these technologies..</h3>
 
 <p align="left"
   <img src="https://komarev.com/ghpvc/?username=vaibhav-12521&label=Profile%20views&color=ffffff&style=flat" alt="vaibhav-12521" />
