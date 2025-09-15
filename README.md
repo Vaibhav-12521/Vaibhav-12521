@@ -9,8 +9,8 @@
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vaibhav-12521" alt="vaibhav-12521" /></a> 
 </p>
 
-- 🔭 I’m currently working on **Hand Gesture with Desktop AI**
-
+- 🔭 I’m currently working as a **Intern** in CodeAlpha with **Artficial Inteligence**.
+  
 - 🌱 I’m currently learning **JavaScript and Python (AI with ML)**
 
 - 🤝 I’m looking for help with **Artificial Intelligence with ML**
