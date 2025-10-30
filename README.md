@@ -34,7 +34,9 @@
 <a href="https://github.com/Vaibhav-12521" target="_blank"> 
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/> 
 </a>
-
+<a href="https://www.cloudskillsboost.google/public_profiles" target="_blank">
+    <img src="https://www.skills.google/public_profiles/676dd6a8-2e36-4ad9-ba82-034bc151848f" alt="Google Cloud Profile"/>
+</a>
 
 
 
