@@ -26,7 +26,7 @@
   </a>
 
 <a href="https://linkedin.com/in/vaibhavsingh125" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeksforgeeks-in-alt.svg" alt="vaibhavsingh-43aa94361" height="30" width="40" />
+    <img align="center" src="https://img.icons8.com/color/48/GeeksforGeeks.png" alt="vaibhavsingh-43aa94361" height="30" width="40" />
   </a>
 
 </p>
