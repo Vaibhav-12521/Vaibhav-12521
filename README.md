@@ -19,19 +19,25 @@
 
 - ⚡ Fun fact **I think I am funny, As long as you keep proving me wrong I will stay ahead of you.**
 
+
+
+
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/vaibhavsingh125" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vaibhavsingh-43aa94361" height="30" width="40" />
-  </a>
+<a href="https://leetcode.com/u/vaibhav125s/" target="_blank"> 
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile"/> 
+</a> 
+<a href="https://www.linkedin.com/in/vaibhavsingh125/" target="_blank"> 
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/> 
+</a>
+<a href="https://github.com/Vaibhav-12521" target="_blank"> 
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/> 
+</a>
 
-  <a href="https://www.geeksforgeeks.org/user/vaibhavsingh12521/" target="blank">
-    <img align="center" src="https://img.icons8.com/color/48/GeeksforGeeks.png" alt="vaibhavsingh-43aa94361" height="30" width="40" />
-  </a>
 
-<a href="https://www.leetcode.com/vaibhav125s" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vaibhav125s" height="30" width="40" /></a>
-</p>
+
+
+
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
