@@ -22,7 +22,7 @@
 
 
 
-<h2 align="left">Connect with me:</h2>
+<h2 align="center">Connect with me:</h2>
 <a href="https://leetcode.com/u/vaibhav125s/" target="_blank"> 
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile"/> 
 </a> 
