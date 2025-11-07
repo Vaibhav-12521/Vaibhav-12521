@@ -1,4 +1,24 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Singh</h1>
+<div align="center">
+  <a href="https://leetcode.com/u/vaibhav125s/" target="_blank"> 
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile"/> 
+  </a> 
+  &nbsp;
+  <a href="https://www.linkedin.com/in/vaibhavsingh125/" target="_blank"> 
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/> 
+  </a>
+  &nbsp;
+  <a href="https://github.com/Vaibhav-12521" target="_blank"> 
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/> 
+  </a>
+  &nbsp;
+  <a href="https://www.skills.google/public_profiles/676dd6a8-2e36-4ad9-ba82-034bc151848f" target="_blank">
+      <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud Profile"/>
+  </a>
+  <a href="https://instagram.com/vaibhavsingh12521" target="_blank">
+    <img src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" style="margin-bottom: 5px;" />
+  </a>
+</div>
 <h3 align="center">A passionate developer with a focus on frontend and backend development, as well as a keen interest in cybersecurity. My journey in tech has led me to explore the exciting fields of AI and machine learning, with most of my projects centered around these technologies..</h3>
 
 <p align="left"
@@ -20,29 +40,6 @@
 - ⚡ Fun fact **I think I am funny, As long as you keep proving me wrong I will stay ahead of you.**
 
 
-
-
-<h2 align="left">Connect with me:</h2>
-<div align="center">
-  <a href="https://leetcode.com/u/vaibhav125s/" target="_blank"> 
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile"/> 
-  </a> 
-  &nbsp;
-  <a href="https://www.linkedin.com/in/vaibhavsingh125/" target="_blank"> 
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/> 
-  </a>
-  &nbsp;
-  <a href="https://github.com/Vaibhav-12521" target="_blank"> 
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/> 
-  </a>
-  &nbsp;
-  <a href="https://www.skills.google/public_profiles/676dd6a8-2e36-4ad9-ba82-034bc151848f" target="_blank">
-      <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud Profile"/>
-  </a>
-  <a href="https://instagram.com/vaibhavsingh12521" target="_blank">
-    <img src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" style="margin-bottom: 5px;" />
-  </a>
-</div>
 
 
 
