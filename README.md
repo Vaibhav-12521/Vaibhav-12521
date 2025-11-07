@@ -40,7 +40,7 @@
       <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud Profile"/>
   </a>
   <a href="https://instagram.com/vaibhavsingh12521" target="_blank">
-    <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+    <img src=https://img.shields.io/badge/instagram-%23000000.svg />
   </a>
 </div>
 
