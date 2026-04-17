@@ -40,11 +40,6 @@
 - ⚡ Fun fact **I think I am funny, As long as you keep proving me wrong I will stay ahead of you.**
 
 
-
-
-
-
-
 <h2 align="left">Languages and Tools:</h2>
 <p align="left"> 
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
