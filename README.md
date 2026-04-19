@@ -39,7 +39,9 @@
 
 - ⚡ Fun fact **I think I am funny, As long as you keep proving me wrong I will stay ahead of you.**
 
+---
 
+## 🛠️ Tech Stack
 
 ### 💡 AI / Machine Learning
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
