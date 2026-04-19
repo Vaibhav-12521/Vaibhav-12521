@@ -18,6 +18,8 @@
   <a href="https://instagram.com/vaibhavsingh12521" target="_blank">
     <img src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" style="margin-bottom: 5px;" />
   </a>
+
+  ![Profile Views](https://komarev.com/ghpvc/?username=vaibhav-12521&color=00d4ff&style=flat-square&label=Profile+Views)
 </div>
 <h3 align="center">A passionate developer with a focus on frontend and backend development, as well as a keen interest in cybersecurity. My journey in tech has led me to explore the exciting fields of AI and machine learning, with most of my projects centered around these technologies..</h3>
 
