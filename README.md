@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Singh</h1>
 <div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=AI+%2F+ML+Developer+%F0%9F%A4%96;Blockchain+%26+Web3+Builder+%E2%9B%93;Full+Stack+Web+Developer+%F0%9F%8C%90;<+Building+the+Future+One+Commit+at+a+Time+/>+%F0%9F%8F%86;Always+Learning%2C+Always+Building+%F0%9F%9A%80)](https://git.io/typing-svg)
+  
   <a href="https://leetcode.com/u/vaibhav125s/" target="_blank"> 
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile"/> 
   </a> 
