@@ -89,3 +89,38 @@
   &nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=vaibhav-12521&show_icons=true&locale=en" alt="vaibhav-12521" />
 </p>
+
+## 🌱 Currently Exploring
+
+```
+🤖  Large Language Models (LLMs) & Prompt Engineering
+⛓️  Smart Contracts & Decentralized Applications (DApps)  
+🧠  Deep Learning & Neural Networks
+🌐  Full Stack Development with React + Django
+📱  React Native for Mobile Apps
+```
+
+---
+
+## 🤝 Let's Connect & Collaborate
+
+<div align="center">
+
+> *"The best way to predict the future is to build it."*
+
+I'm always open to **collaborating on AI, ML, and Blockchain projects**, participating in **hackathons**, or just having a great **tech conversation**!
+
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vaibhavsingh125)
+[![GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vaibhav-12521)
+
+</div>
+
+---
+
+<div align="center">
+
+*⭐ If you find my work interesting, consider giving some repos a star — it means a lot!*
+
+**`< Made with ❤️ by Vaibhav Singh />`**
+
+</div>
