@@ -31,11 +31,11 @@
 
 ## 👋 About Me
 
-I'm a **Full-Stack Web Developer** who ships real, working products — not demos.
+I'm a **Full-Stack Web Developer** who ships real, working products - not demos.
 
 Right now I'm building **[Medstocksy](https://medstocksy.in)**, a production pharmacy inventory & POS SaaS in **React + TypeScript** on **Supabase (PostgreSQL)**, with Google OAuth, row-level security, and a relational schema for products, batches, customers, and bills.
 
-On the AI side, I've integrated **LLMs (Groq · LLaMA 3.1)** into real product flows — including **EVA**, a Flask chatbot with session memory and streaming responses.
+On the AI side, I've integrated **LLMs (Groq · LLaMA 3.1)** into real product flows - including **EVA**, a Flask chatbot with session memory and streaming responses.
 
 Outside of building, I was **Runner-up at Hack-It-Out, Technex 2025 (IIT BHU)** and **selected for the Google GenAI Exchange Program** for prompt engineering, RAG, and Vertex AI.
 
@@ -93,10 +93,10 @@ Outside of building, I was **Runner-up at Hack-It-Out, Technex 2025 (IIT BHU)** 
 
 | Project | Stack | Status |
 | --- | --- | --- |
-| **[Medstocksy](https://medstocksy.in)** — Pharmacy Inventory & POS SaaS | React · TypeScript · Supabase · Tailwind · Vercel | 🟢 **Live** |
-| **[EVA — AI Chatbot](https://github.com/Vaibhav-12521/EVA)** with LLM integration | Python · Flask · Groq · LLaMA 3.1 · REST | ✅ Shipped |
-| **[Lucknowi](https://github.com/Vaibhav-12521)** — E-Commerce Platform | HTML · CSS · JS · PHP · MySQL | ✅ Shipped |
-| **Lost & Found** — Location-Tagged Web App | JavaScript · Geolocation API · REST | ✅ Shipped |
+| **[Medstocksy](https://medstocksy.in)** - Pharmacy Inventory & POS SaaS | React · TypeScript · Supabase · Tailwind · Vercel | 🟢 **Live** |
+| **[EVA - AI Chatbot](https://github.com/Vaibhav-12521/EVA)** with LLM integration | Python · Flask · Groq · LLaMA 3.1 · REST | ✅ Shipped |
+| **[Lucknowi](https://github.com/Vaibhav-12521)** - E-Commerce Platform | HTML · CSS · JS · PHP · MySQL | ✅ Shipped |
+| **Lost & Found** - Location-Tagged Web App | JavaScript · Geolocation API · REST | ✅ Shipped |
 | **Blockchain Payment Gateway** (Hackathon) | Web3 · Smart Contracts · JavaScript | ✅ Shipped |
 | **Face Recognition AI Assistant** | Python · OpenCV · Speech Synthesis · Tkinter | ✅ Shipped |
 
@@ -111,10 +111,10 @@ Outside of building, I was **Runner-up at Hack-It-Out, Technex 2025 (IIT BHU)** 
 
 ## 🏆 Awards & Recognition
 
-- 🥈 **Runner-up** — Hack-It-Out, **Technex 2025 (IIT BHU)** · National-level hackathon
-- 🎓 **Selected** — **Google GenAI Exchange Program** · Prompt engineering, RAG, Vertex AI
-- 🇮🇳 **Participant** — Smart India Hackathon (SIH) 2024–25
-- ✅ **Completed** — GeeksforGeeks 160 Days DSA Challenge
+- 🥈 **Runner-up** - Hack-It-Out, **Technex 2025 (IIT BHU)** · National-level hackathon
+- 🎓 **Selected** - **Google GenAI Exchange Program** · Prompt engineering, RAG, Vertex AI
+- 🇮🇳 **Participant** - Smart India Hackathon (SIH) 2024–25
+- ✅ **Completed** - GeeksforGeeks 160 Days DSA Challenge
 
 ---
 
@@ -123,11 +123,16 @@ Outside of building, I was **Runner-up at Hack-It-Out, Technex 2025 (IIT BHU)** 
 <div align="center">
 
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=Vaibhav-12521&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
+
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=Vaibhav-12521&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Vaibhav-12521&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<p align="left"
+  <img src="https://komarev.com/ghpvc/?username=vaibhav-12521&label=Profile%20views&color=ffffff&style=flat" alt="vaibhav-12521" />
+</p>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Vaibhav-12521&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies"/>
+<p align="left"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vaibhav-12521" alt="vaibhav-12521" /></a> 
+
 
 </div>
 
@@ -135,7 +140,7 @@ Outside of building, I was **Runner-up at Hack-It-Out, Technex 2025 (IIT BHU)** 
 
 ## 💼 Open to Work
 
-> **Full-time Web Developer / Full-Stack Engineer roles** — React, TypeScript, Node, Supabase, and LLM-integrated product work.
+> **Full-time Web Developer / Full-Stack Engineer roles** - React, TypeScript, Node, Supabase, and LLM-integrated product work.
 >
 > Remote or on-site · Available to start immediately, or upon graduation (May 2026).
 
@@ -157,7 +162,9 @@ Outside of building, I was **Runner-up at Hack-It-Out, Technex 2025 (IIT BHU)** 
 
 <div align="center">
 
-*"The best way to predict the future is to build it."*
+*"The best way to predict the future is to build it."*'
+
+*⭐ If you find my work interesting, consider giving some repos a star - it means a lot!*
 
 **`< Made with ❤️ by Vaibhav Singh />`**
 
