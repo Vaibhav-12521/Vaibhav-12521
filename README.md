@@ -1,24 +1,27 @@
-<h1 align="center">Hi 👋, I'm Vaibhav Singh</h1>
-
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+%F0%9F%8C%90;React+%2B+TypeScript+%2B+Supabase+%F0%9F%9A%80;AI+%2F+LLM+Integration+%F0%9F%A4%96;Runner-up+%E2%80%94+Technex+2025+%40+IIT+BHU+%F0%9F%8F%86;Available+Immediately+for+Full-Time+Roles+%E2%9C%85)](https://git.io/typing-svg)
+# Vaibhav Singh
+
+### Full-Stack Developer · React · TypeScript · Supabase · LLM Integration
+
+📍 Lucknow, India &nbsp;·&nbsp; 🎓 BCA · Graduating May 2026 &nbsp;·&nbsp; ✅ Available immediately
+
+<br/>
 
 <a href="https://vaibhav1.me" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-vaibhav1.me-00D4FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/🌐_Portfolio-vaibhav1.me-00D4FF?style=for-the-badge" alt="Portfolio"/>
 </a>
-&nbsp;
 <a href="https://www.linkedin.com/in/vaibhavsingh125/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-&nbsp;
 <a href="mailto:singh12521vaibhav@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
-&nbsp;
 <a href="https://leetcode.com/u/vaibhav125s/" target="_blank">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
 </a>
+
+<br/><br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Vaibhav-12521&color=00d4ff&style=flat-square&label=Profile+Views)
 
@@ -26,22 +29,21 @@
 
 ---
 
-### 🚀 About Me
+## 👋 About Me
 
-I'm a final-year **BCA student** and **Full-Stack Web Developer** based in **Lucknow, India** — focused on shipping real products, not demos.
+I'm a **Full-Stack Web Developer** who ships real, working products — not demos.
 
-- 🔭 **Currently building:** [Medstocksy](https://medstocksy.in) — a production pharmacy inventory & POS SaaS in **React + TypeScript** on **Supabase (PostgreSQL)** with Google OAuth, row-level security, and POS-style billing.
-- 🤖 **AI work:** Built **EVA**, a Flask + Groq + LLaMA 3.1 chatbot with session memory and streaming responses.
-- 🏆 **Recent win:** Runner-up at **Hack-It-Out, Technex 2025 (IIT BHU)** — built a sentiment-analysis dashboard end-to-end against the clock.
-- 🎓 **Selected** for the **Google GenAI Exchange Program** — prompt engineering, RAG, evaluation, Vertex AI.
-- 📍 **Graduating May 2026** · **Available immediately for full-time web developer roles.**
-- 📫 Reach me at **singh12521vaibhav@gmail.com** · **+91 8957784793**
+Right now I'm building **[Medstocksy](https://medstocksy.in)**, a production pharmacy inventory & POS SaaS in **React + TypeScript** on **Supabase (PostgreSQL)**, with Google OAuth, row-level security, and a relational schema for products, batches, customers, and bills.
+
+On the AI side, I've integrated **LLMs (Groq · LLaMA 3.1)** into real product flows — including **EVA**, a Flask chatbot with session memory and streaming responses.
+
+Outside of building, I was **Runner-up at Hack-It-Out, Technex 2025 (IIT BHU)** and **selected for the Google GenAI Exchange Program** for prompt engineering, RAG, and Vertex AI.
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-**Languages**
+#### Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -52,7 +54,7 @@ I'm a final-year **BCA student** and **Full-Stack Web Developer** based in **Luc
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-**Frontend**
+#### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -60,25 +62,25 @@ I'm a final-year **BCA student** and **Full-Stack Web Developer** based in **Luc
 ![ShadCN/UI](https://img.shields.io/badge/ShadCN%2FUI-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-**Backend**
+#### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-0096D6?style=for-the-badge&logo=fastapi&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
-**Databases**
+#### Databases
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-**AI / LLM**
+#### AI / LLM
 ![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white)
 ![LLaMA](https://img.shields.io/badge/LLaMA_3.1-0668E1?style=for-the-badge&logo=meta&logoColor=white)
 ![Google GenAI](https://img.shields.io/badge/Google_GenAI-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![NLP](https://img.shields.io/badge/NLP-FF6B35?style=for-the-badge&logo=spacy&logoColor=white)
 
-**DevOps & Tools**
+#### DevOps & Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
@@ -87,7 +89,7 @@ I'm a final-year **BCA student** and **Full-Stack Web Developer** based in **Luc
 
 ---
 
-### 🌟 Featured Projects
+## 🌟 Featured Projects
 
 | Project | Stack | Status |
 | --- | --- | --- |
@@ -98,11 +100,16 @@ I'm a final-year **BCA student** and **Full-Stack Web Developer** based in **Luc
 | **Blockchain Payment Gateway** (Hackathon) | Web3 · Smart Contracts · JavaScript | ✅ Shipped |
 | **Face Recognition AI Assistant** | Python · OpenCV · Speech Synthesis · Tkinter | ✅ Shipped |
 
-➡️ **See more on my portfolio:** [vaibhav1.me](https://vaibhav1.me)
+<div align="center">
+  <br/>
+  <a href="https://vaibhav1.me" target="_blank">
+    <img src="https://img.shields.io/badge/🚀_Explore_All_Projects-vaibhav1.me-00D4FF?style=for-the-badge&labelColor=1c1c1c" alt="View Full Portfolio"/>
+  </a>
+</div>
 
 ---
 
-### 🏆 Awards & Recognition
+## 🏆 Awards & Recognition
 
 - 🥈 **Runner-up** — Hack-It-Out, **Technex 2025 (IIT BHU)** · National-level hackathon
 - 🎓 **Selected** — **Google GenAI Exchange Program** · Prompt engineering, RAG, Vertex AI
@@ -111,7 +118,7 @@ I'm a final-year **BCA student** and **Full-Stack Web Developer** based in **Luc
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -126,17 +133,23 @@ I'm a final-year **BCA student** and **Full-Stack Web Developer** based in **Luc
 
 ---
 
-### 💼 Open To
+## 💼 Open to Work
 
 > **Full-time Web Developer / Full-Stack Engineer roles** — React, TypeScript, Node, Supabase, and LLM-integrated product work.
 >
-> Remote or on-site. Available to start immediately upon graduation (May 2026), or sooner for the right team.
+> Remote or on-site · Available to start immediately, or upon graduation (May 2026).
 
 <div align="center">
 
-[![Hire Me](https://img.shields.io/badge/📩_Email_Me-singh12521vaibhav%40gmail.com-EA4335?style=for-the-badge)](mailto:singh12521vaibhav@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/💬_Let's_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaibhavsingh125/)
-[![Portfolio](https://img.shields.io/badge/🌐_View_Portfolio-vaibhav1.me-00D4FF?style=for-the-badge)](https://vaibhav1.me)
+<a href="mailto:singh12521vaibhav@gmail.com">
+  <img src="https://img.shields.io/badge/📩_Email_Me-singh12521vaibhav%40gmail.com-EA4335?style=for-the-badge" alt="Email"/>
+</a>
+<a href="https://www.linkedin.com/in/vaibhavsingh125/" target="_blank">
+  <img src="https://img.shields.io/badge/💬_LinkedIn-Vaibhav_Singh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://vaibhav1.me" target="_blank">
+  <img src="https://img.shields.io/badge/🌐_Portfolio-vaibhav1.me-00D4FF?style=for-the-badge" alt="Portfolio"/>
+</a>
 
 </div>
 
