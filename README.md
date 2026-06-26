@@ -10,7 +10,7 @@
 <a href="https://vaibhav1.me" target="_blank">
   <img src="https://img.shields.io/badge/🌐_Portfolio-vaibhav1.me-00D4FF?style=for-the-badge" alt="Portfolio"/> 
 </a>   
-<a href="https://www.linkedin.com/in/vaibhavsingh125/" target="_blank">
+<a href="https://www.linkedin.com/in/vaibhavsingh125/" target="_blank"> 
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="mailto:singh12521vaibhav@gmail.com">
