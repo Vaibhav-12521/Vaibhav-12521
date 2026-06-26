@@ -1,6 +1,7 @@
 <div align="center">
   
-  # Vaibhav Singh      
+  # Vaibhav Singh       
+  
    
 ### Full-Stack Developer · React · TypeScript · Supabase · LLM Integration  
 
