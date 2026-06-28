@@ -31,7 +31,7 @@
 
 ## 👋 About Me
 
-I'm a **Full-Stack Developer** who has independently designed, built, and deployed **two live production web apps** end-to-end - owning product, frontend, backend, and deployment.
+I'm a **Full-Stack Developer** who has designed, built, and deployed **two live production web apps** end-to-end - owning product, frontend, backend, and deployment.
 
 🚀 **Flagship:** **[Medstocksy](https://medstocksy.in)** - a multi-tenant pharmacy SaaS in **Next.js + TypeScript** on **Supabase (PostgreSQL)**, with Google OAuth, JWT sessions, real-time inventory sync, and database-level multi-tenant isolation via Row-Level Security.
 
