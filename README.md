@@ -45,7 +45,7 @@ I'm a **Full-Stack Developer** who has designed, built, and deployed **two live 
 
 | Project | Stack | Status |
 | --- | --- | --- |
-| **[Medstocksy](https://medstocksy.in)** - Multi-tenant Pharmacy SaaS (inventory · POS · OAuth) | Next.js · TypeScript · Supabase · Tailwind · Vercel | 🟢 **Live** |
+| **[Medstocksy](https://medstocksy.in)** - Multi-tenant Pharmacy SaaS (inventory · POS · OAuth) | Next.js · TypeScript · Supabase · Tailwind · Vercel | 🟢 [**Live**](https://app.medstocksy.in/) |
 | **Drone Survey Management System** - Plan, monitor & report autonomous drone surveys | Next.js 14 · TypeScript · Supabase Realtime · Leaflet · Turf.js | 🟢 **Live Demo** |
 | **Birdie & Cause** - Subscription SaaS with recurring payments | React · TypeScript · Supabase · **Stripe** · Vercel | 🟢 **Live Demo** |
 | **[Lucknowi](https://lucknowi.com)** - E-Commerce Platform | PHP · MySQL · JS · Admin CMS | 🟢 **Live** |
