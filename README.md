@@ -47,7 +47,7 @@ I'm a **Full-Stack Developer** who has designed, built, and deployed **two live 
 | --- | --- | --- |
 | **[Medstocksy](https://medstocksy.in)** - Multi-tenant Pharmacy SaaS (inventory · POS · OAuth) | Next.js · TypeScript · Supabase · Tailwind · Vercel | 🟢 [**Live**](https://app.medstocksy.in/) |
 | **Drone Survey Management System** - Plan, monitor & report autonomous drone surveys | Next.js 14 · TypeScript · Supabase Realtime · Leaflet · Turf.js | 🟢 **Live Demo** |
-| **Birdie & Cause** - Subscription SaaS with recurring payments | React · TypeScript · Supabase · **Stripe** · Vercel | 🟢 **Live Demo** |
+| **Birdie & Cause** - Subscription SaaS with recurring payments | React · TypeScript · Supabase · **Stripe** · Vercel | 🟢 [**Live Demo**](https://golf-charity-eight-mocha.vercel.app/) |
 | **[Lucknowi](https://lucknowi.com)** - E-Commerce Platform | PHP · MySQL · JS · Admin CMS | 🟢 **Live** |
 | **Notice Board** - Full-CRUD app (ISR · search · filtering) | Next.js 14 · Prisma · Supabase · Tailwind | ✅ Shipped |
 | **[EVA](https://github.com/Vaibhav-12521/EVA)** - AI Chatbot with LLM integration | Python · Flask · Groq · LLaMA 3.1 · Streaming | ✅ Shipped |
