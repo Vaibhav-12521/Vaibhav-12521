@@ -1,157 +1,90 @@
 <div align="center">
 
-# Vaibhav  Singh
+<p>
+<picture>
+  <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/Vaibhav-12521/Old-Profile-Readme-files/main/papercut-assets/header-mobile.svg?sanitize=true">
+  <img src="https://raw.githubusercontent.com/Vaibhav-12521/Old-Profile-Readme-files/main/papercut-assets/header.svg?sanitize=true" width="100%" alt="Vaibhav Singh, full-stack developer, Lucknow"/>
+</picture>
+</p>
 
-### Full-Stack Developer · React · Next.js · TypeScript · Supabase · LLM Integration
+<p>
+<img src="https://komarev.com/ghpvc/?username=Vaibhav-12521&label=profile%20views&color=e76f51&style=for-the-badge" alt="Profile views"/>
+<img src="https://img.shields.io/github/followers/Vaibhav-12521?label=followers&style=for-the-badge&color=2a9d8f&labelColor=555555" alt="Followers"/>
+<img src="https://img.shields.io/github/stars/Vaibhav-12521?affiliations=OWNER&label=stars&style=for-the-badge&color=e9c46a&labelColor=555555" alt="Stars"/>
+</p>
 
-📍 Lucknow, India &nbsp;·&nbsp; 🎓 BCA · Graduating May 2026 &nbsp;·&nbsp; ✅ Available immediately
+<p>
+<picture>
+  <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/Vaibhav-12521/Old-Profile-Readme-files/main/papercut-assets/about-mobile.svg?sanitize=true">
+  <img src="https://raw.githubusercontent.com/Vaibhav-12521/Old-Profile-Readme-files/main/papercut-assets/about.svg?sanitize=true" width="100%" alt="Freelance full-stack dev building Medstocksy. 2 live client apps, 13+ builds. Technex '25 runner-up, Techfest '25 winner, Google GenAI Exchange. Open to full-time roles."/>
+</picture>
+</p>
 
+<p>
+<img src="https://raw.githubusercontent.com/Vaibhav-12521/Old-Profile-Readme-files/main/papercut-assets/ribbon-projects.svg?sanitize=true" alt="Things I've built"/>
+</p>
+
+<p>
+<a href="https://medstocksy.in"><img src="https://raw.githubusercontent.com/Vaibhav-12521/Old-Profile-Readme-files/main/papercut-assets/card-medstocksy.svg?sanitize=true" alt="Medstocksy: pharmacy SaaS"/></a>
+<a href="https://drone-survey-management-delta.vercel.app/"><img src="https://raw.githubusercontent.com/Vaibhav-12521/Old-Profile-Readme-files/main/papercut-assets/card-drone.svg?sanitize=true" alt="Drone Survey: live telemetry map"/></a>
+<a href="https://sortmyscene-booking-three.vercel.app/"><img src="https://raw.githubusercontent.com/Vaibhav-12521/Old-Profile-Readme-files/main/papercut-assets/card-sortmyscene.svg?sanitize=true" alt="SortMyScene: real-time seat booking"/></a>
+<a href="https://github.com/Vaibhav-12521/bookleaf-support"><img src="https://raw.githubusercontent.com/Vaibhav-12521/Old-Profile-Readme-files/main/papercut-assets/card-bookleaf.svg?sanitize=true" alt="BookLeaf AI: AI drafts support replies"/></a>
+<a href="https://github.com/Vaibhav-12521/elicius-tracking-backend"><img src="https://raw.githubusercontent.com/Vaibhav-12521/Old-Profile-Readme-files/main/papercut-assets/card-fleet.svg?sanitize=true" alt="Fleet Tracker: FastAPI, MQTT, Flutter"/></a>
+<a href="https://golf-charity-eight-mocha.vercel.app/"><img src="https://raw.githubusercontent.com/Vaibhav-12521/Old-Profile-Readme-files/main/papercut-assets/card-birdie.svg?sanitize=true" alt="Birdie and Cause: Stripe subscriptions"/></a>
+</p>
+
+<p>
+<img src="https://raw.githubusercontent.com/Vaibhav-12521/Old-Profile-Readme-files/main/papercut-assets/ribbon-tools.svg?sanitize=true" alt="My toolbox"/>
+</p>
+
+<p>
+<picture>
+  <source media="(max-width: 600px)" srcset="https://skillicons.dev/icons?i=ts%2Cjs%2Creact%2Cnextjs%2Cnodejs%2Cexpress%2Cpostgres%2Csupabase%2Cmongodb%2Cprisma%2Cpython%2Cfastapi%2Cflutter%2Ctailwind%2Cdocker%2Cgit&perline=8&theme=light">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,postgres,supabase,mongodb,prisma,python,fastapi,flutter,tailwind,docker,git&perline=16&theme=light" width="100%" alt="TypeScript, JavaScript, React, Next.js, Node.js, Express, PostgreSQL, Supabase, MongoDB, Prisma, Python, FastAPI, Flutter, Tailwind, Docker, Git"/>
+</picture>
+</p>
+
+<p>
+<img src="https://raw.githubusercontent.com/Vaibhav-12521/Old-Profile-Readme-files/main/papercut-assets/ribbon-stats.svg?sanitize=true" alt="GitHub stats"/>
+</p>
+
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=Vaibhav-12521&show_icons=true&count_private=true&bg_color=f6efe3&title_color=e76f51&icon_color=2a9d8f&text_color=264653&ring_color=e76f51&hide_border=true&border_radius=18&disable_animations=true" alt="GitHub stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Vaibhav-12521&layout=compact&langs_count=8&card_width=300&bg_color=f6efe3&title_color=e76f51&text_color=264653&hide_border=true&border_radius=18&disable_animations=true" alt="Top languages"/>
+</p>
+
+<p>
+<img src="https://streak-stats.demolab.com?user=Vaibhav-12521&background=F6EFE3&ring=E76F51&fire=F4A261&currStreakNum=264653&sideNums=264653&currStreakLabel=E76F51&sideLabels=2A9D8F&dates=6B5A48&stroke=E9C46A&hide_border=true&border_radius=18&disable_animations=true" alt="GitHub streak"/>
+<img src="https://raw.githubusercontent.com/Vaibhav-12521/Old-Profile-Readme-files/main/papercut-assets/now.svg?sanitize=true" alt="Currently: building client SaaS, exploring AI agents, open to full-time roles"/>
+</p>
+
+<p>
+<a href="https://vaibhav-12521.github.io/Old-Profile-Readme-files/">
+<picture>
+  <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/Vaibhav-12521/Old-Profile-Readme-files/main/papercut-assets/contrib-mobile.svg?sanitize=true">
+  <img src="https://raw.githubusercontent.com/Vaibhav-12521/Old-Profile-Readme-files/main/papercut-assets/contrib.svg?sanitize=true" width="100%" alt="GitHub contributions for the last 7 days, 30 days and all time. Click to open the interactive graph."/>
+</picture>
+</a>
 <br/>
- 
-<a href="https://vaibhav1.me" target="_blank">
-  <img src="https://img.shields.io/badge/🌐_Portfolio-vaibhav1.me-00D4FF?style=for-the-badge" alt="Portfolio"/>
-</a>
-<a href="https://www.linkedin.com/in/vaibhavsingh125/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:singh12521vaibhav@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<a href="https://leetcode.com/u/vaibhav125s/" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-</a>
+<a href="https://vaibhav-12521.github.io/Old-Profile-Readme-files/"><img src="https://raw.githubusercontent.com/Vaibhav-12521/Old-Profile-Readme-files/main/papercut-assets/btn-graph.svg?sanitize=true" alt="Explore the interactive graph"/></a>
+</p>
 
-<br/><br/>
+<p>
+<img src="https://raw.githubusercontent.com/Vaibhav-12521/Old-Profile-Readme-files/main/papercut-assets/ribbon-contact.svg?sanitize=true" alt="Say hello"/>
+</p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Vaibhav-12521&color=00d4ff&style=flat-square&label=Profile+Views)
+<p>
+<a href="https://vaibhav1.me"><img src="https://raw.githubusercontent.com/Vaibhav-12521/Old-Profile-Readme-files/main/papercut-assets/btn-portfolio.svg?sanitize=true" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/vaibhavsingh125/"><img src="https://raw.githubusercontent.com/Vaibhav-12521/Old-Profile-Readme-files/main/papercut-assets/btn-linkedin.svg?sanitize=true" alt="LinkedIn"/></a>
+<a href="mailto:singh12521vaibhav@gmail.com"><img src="https://raw.githubusercontent.com/Vaibhav-12521/Old-Profile-Readme-files/main/papercut-assets/btn-email.svg?sanitize=true" alt="Email"/></a>
+<a href="https://leetcode.com/u/vaibhav125s/"><img src="https://raw.githubusercontent.com/Vaibhav-12521/Old-Profile-Readme-files/main/papercut-assets/btn-leetcode.svg?sanitize=true" alt="LeetCode"/></a>
+</p>
 
-</div>
-
----
-
-## 👋 About Me
-
-I'm a **Full-Stack Developer** who has designed, built, and deployed **two live production web apps** end-to-end - owning product, frontend, backend, and deployment.
-
-🚀 **Flagship:** **[Medstocksy](https://medstocksy.in)** - a multi-tenant pharmacy SaaS in **Next.js + TypeScript** on **Supabase (PostgreSQL)**, with Google OAuth, JWT sessions, real-time inventory sync, and database-level multi-tenant isolation via Row-Level Security.
-
-🤖 **AI side:** I integrate **LLMs (Groq · LLaMA 3.1 · RAG)** into production flows - including **EVA**, a Flask chatbot with session memory and streaming responses - using AI-assisted dev workflows (Claude, Copilot, Cursor).
-
-🏆 **Recognition:** Runner-up at **Hack-It-Out, Technex 2025 (IIT BHU)** and selected for the **Google GenAI Exchange Program** (prompt engineering, RAG, Vertex AI).
-
----
-
-## 🚀 Featured Projects
-
-| Project | Stack | Status |
-| --- | --- | --- |
-| **[Medstocksy](https://medstocksy.in)** - Multi-tenant Pharmacy SaaS (inventory · POS · OAuth) | Next.js · TypeScript · Supabase · Tailwind · Vercel | 🟢 [**Live**](https://app.medstocksy.in/) |
-| **Drone Survey Management System** - Plan, monitor & report autonomous drone surveys | Next.js 14 · TypeScript · Supabase Realtime · Leaflet · Turf.js | 🟢 **Live Demo** |
-| **Birdie & Cause** - Subscription SaaS with recurring payments | React · TypeScript · Supabase · **Stripe** · Vercel | 🟢 [**Live Demo**](https://golf-charity-eight-mocha.vercel.app/) |
-| **[Lucknowi](https://lucknowi.com)** - E-Commerce Platform | PHP · MySQL · JS · Admin CMS | 🟢 **Live** |
-| **Notice Board** - Full-CRUD app (ISR · search · filtering) | Next.js 14 · Prisma · Supabase · Tailwind | [✅ Shipped](https://notice-board-bice.vercel.app/) |
-| **[EVA](https://github.com/Vaibhav-12521/EVA)** - AI Chatbot with LLM integration | Python · Flask · Groq · LLaMA 3.1 · Streaming | ✅ Shipped |
-
-<div align="center">
-  <br/>
-  <a href="https://vaibhav1.me" target="_blank">
-    <img src="https://img.shields.io/badge/🚀_Explore_All_Projects-vaibhav1.me-00D4FF?style=for-the-badge&labelColor=1c1c1c" alt="View Full Portfolio"/>
-  </a>
-</div>
-
----
-
-## 🛠️ Tech Stack
-
-#### Core
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-#### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![ShadCN/UI](https://img.shields.io/badge/ShadCN%2FUI-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
-
-#### Backend & Data
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-
-#### AI / LLM
-![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white)
-![LLaMA](https://img.shields.io/badge/LLaMA_3.1-0668E1?style=for-the-badge&logo=meta&logoColor=white)
-![Google GenAI](https://img.shields.io/badge/Google_GenAI-4285F4?style=for-the-badge&logo=google&logoColor=white)
-
-#### Tools & Integrations
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
----
-
-## 🏆 Awards & Recognition
-
-- 🥈 **Runner-up** - Hack-It-Out, **Technex 2025 (IIT BHU)** · National-level hackathon
-- 🎓 **Selected** - **Google GenAI Exchange Program** · Prompt engineering, RAG, Vertex AI
-- 🇮🇳 **Participant** - Smart India Hackathon (SIH) 2024–25
-- ✅ **Completed** - GeeksforGeeks 160 Days DSA Challenge
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Vaibhav-12521&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=Vaibhav-12521&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-
-<br/><br/>
-
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=Vaibhav-12521&theme=tokyonight&no-frame=true&column=7" alt="Trophies"/>
-</a>
-
-</div>
-
----
-
-## 💼 Open to Work
-
-> **Full-time Full-Stack / Web Developer roles** - React, Next.js, TypeScript, Node, Supabase, and LLM-integrated product work.
->
-> Remote or on-site · Available to start immediately, or upon graduation (May 2026).
-
-<div align="center">
-
-<a href="mailto:singh12521vaibhav@gmail.com">
-  <img src="https://img.shields.io/badge/📩_Email_Me-singh12521vaibhav%40gmail.com-EA4335?style=for-the-badge" alt="Email"/>
-</a>
-<a href="https://www.linkedin.com/in/vaibhavsingh125/" target="_blank">
-  <img src="https://img.shields.io/badge/💬_LinkedIn-Vaibhav_Singh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://vaibhav1.me" target="_blank">
-  <img src="https://img.shields.io/badge/🌐_Portfolio-vaibhav1.me-00D4FF?style=for-the-badge" alt="Portfolio"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-*"The best way to predict the future is to build it."*
-
-⭐ *If you find my work interesting, consider giving some repos a star - it means a lot!*
-
-**`< Made with ❤️ by Vaibhav Singh />`**
+<p>
+<picture>
+  <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/Vaibhav-12521/Old-Profile-Readme-files/main/papercut-assets/footer-mobile.svg?sanitize=true">
+  <img src="https://raw.githubusercontent.com/Vaibhav-12521/Old-Profile-Readme-files/main/papercut-assets/footer.svg?sanitize=true" width="100%" alt="Thanks for stopping by"/>
+</picture>
+</p>
 
 </div>
