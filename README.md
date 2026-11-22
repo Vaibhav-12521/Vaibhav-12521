@@ -7,7 +7,7 @@
 📍 Lucknow, India &nbsp;·&nbsp; 🎓 BCA · Graduating May 2026 &nbsp;·&nbsp; ✅ Available immediately
 
 <br/>
-
+ 
 <a href="https://vaibhav1.me" target="_blank">
   <img src="https://img.shields.io/badge/🌐_Portfolio-vaibhav1.me-00D4FF?style=for-the-badge" alt="Portfolio"/>
 </a>
